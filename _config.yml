@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: bank-of-scotland.api.streamdata.gallery
+title: Streamdata Gallery Bank of Scotland
+url: bank-of-scotland.streamdata.gallery
 tag: Bank of Scotland
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: bank-of-scotland
 github_branch: master
 collections:
