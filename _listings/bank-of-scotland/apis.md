@@ -13,8 +13,8 @@ x-alexaRank: ""
 tags:
 - UK Banks
 - ATMs
-created: "2018-03-21"
-modified: "2018-03-21"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/bank-of-scotland/master/_listings/bank-of-scotland/apis.yaml
 specificationVersion: "0.14"
 apis:
