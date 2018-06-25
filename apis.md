@@ -5,7 +5,7 @@ description: This is a repository of bank of scotland APIs, self-contained as a 
   operations.
 image: http://template.streamdata.gallery/assets/bank-of-scotland.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://bank-of-scotland.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
