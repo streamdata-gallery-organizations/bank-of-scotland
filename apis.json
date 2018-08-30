@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Bank of Scotland",
+	"description": "This is a repository of bank of scotland APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/bank-of-scotland.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://bank-of-scotland.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Bank of Scotland",
+			"x-api-slug": "bank-of-scotland",
+			"description": "The Bank of Scotland is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year before), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes and it continues to print its own sterling banknotes under legal arrangements which allow Scottish banks to issue currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg",
+			"humanURL": "https://www.bankofscotland.co.uk/",
+			"baseURL": "https://api.bankofscotland.co.uk/open-banking/v2.1/",
+			"tags": "Bank of Scotland",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/bank-of-scotland/master/_listings/bank-of-scotland/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Bank of Scotland",
+	"include": [
+		{
+			"name": "Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/bank-of-scotland/master/_listings/bank-of-scotland/apis.yaml"
+		}
+	]
+}
